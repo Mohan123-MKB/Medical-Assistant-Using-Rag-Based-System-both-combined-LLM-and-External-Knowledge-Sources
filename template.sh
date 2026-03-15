@@ -9,6 +9,6 @@ touch src/prompt.py
 touch .env
 touch setup.py
 touch app.py
-touch research/trails.ipynb
+touch resorces/trails.ipynb
 touch requirements.txt
 echo "Directory and files created successfully."
